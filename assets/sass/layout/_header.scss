@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 8rem 2rem 8rem;
+
+    .menu {
+        display: flex;
+        justify-content: flex-start;
+        gap: 3rem;
+        align-items: center;
+    }
+
+    .login {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 1rem;
+
+    }
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&family=Roboto:wght@100&display=swap');
+
+.menu__link {
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    color: $spanish-gray;
+
+    &:hover {
+        color: $black;
+    }
+}
+
+.div-titulo__titulo {
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-size: 70px;
+    color: $black;
+    line-height: 4rem;
+}
+
+.div-titulo__subtitulo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: $black;
+    line-height: 3rem;
+}
+
+.caracteristicas__numero {
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-size: 40px;
+    text-decoration: none;
+    color: $black;
+}
+
+.caracteristicas__descripcion {
+    font-family: 'roboto', sans serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: $spanish-gray;
+}
+
+.caja-1__titulo {
+    font-family: "PT Mono", monospace;
+    font-weight: 400;
+    font-size: 30px;
+    color: $black;
+}
+
+.caja-1__texto {
+    font-family: 'roboto', sans serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: $spanish-gray;
+}
